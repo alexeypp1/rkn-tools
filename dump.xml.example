@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<reg:register updateTime="2022-04-03T01:34:00+03:00" updateTimeUrgently="2022-04-02T23:41:00+03:00" formatVersion="2.4" xmlns:reg="http://rsoc.ru" xmlns:tns="http://rsoc.ru">
+<content id="656" includeTime="2012-11-24T15:34:17" entryType="1" hash="D0853C128D92ACB78FBDF6EB31F9EE72">
+<decision date="2012-11-14" number="2/1/11-168" org="ФСКН"/>
+<url><![CDATA[http://cannabay.org/]]></url>
+<domain><![CDATA[cannabay.org]]></domain>
+<ip>94.76.213.163</ip>
+</content>
+<content id="7143" includeTime="2013-02-23T14:53:45" entryType="1" blockType="domain" hash="EEE093299598DCCC2FA3C2EC10A0125A">
+<decision date="2013-02-17" number="2/1/11-2611" org="ФСКН"/>
+<domain><![CDATA[www.royalqueenseeds.ru]]></domain>
+<ip>104.25.197.97</ip>
+<ip>104.25.198.97</ip>
+<ip>172.67.83.154</ip>
+<ip>104.31.93.56</ip>
+<ip>104.31.92.56</ip>
+<ip>172.67.140.203</ip>
+<ip>104.26.5.193</ip>
+<ip>104.26.4.193</ip>
+<ip>172.67.69.84</ip>
+<ipv6>2606:4700:0020:0000:0000:0000:6819:c661</ipv6>
+<ipv6>2606:4700:0020:0000:0000:0000:6819:c561</ipv6>
+<ipv6>2606:4700:0020:0000:0000:0000:ac43:539a</ipv6>
+<ipv6>2606:4700:3032:0000:0000:0000:681f:5d38</ipv6>
+<ipv6>2606:4700:3035:0000:0000:0000:ac43:8ccb</ipv6>
+<ipv6>2606:4700:3032:0000:0000:0000:681f:5c38</ipv6>
+<ipv6>2606:4700:0020:0000:0000:0000:681a:04c1</ipv6>
+<ipv6>2606:4700:0020:0000:0000:0000:681a:05c1</ipv6>
+<ipv6>2606:4700:0020:0000:0000:0000:ac43:4554</ipv6>
+</content>
+<content id="75518" includeTime="2014-04-11T12:03:51" entryType="1" blockType="domain-mask" hash="30F5DABBB1A344EEF48CB317A813670E">
+<decision date="2013-05-23" number="2-1687/2013" org="Октябрьский районный суд г. Санкт-Петербурга"/>
+<domain><![CDATA[*.leonbets.com]]></domain>
+<ip>176.227.209.18</ip>
+<ip>69.172.201.202</ip>
+<ip>176.227.208.102</ip>
+</content>
+<content id="9008" includeTime="2014-03-12T12:52:14" entryType="1" blockType="domain" hash="40B723421BA574E04B56A2989B351B7F">
+<decision date="2013-03-06" number="2/1/11-3430" org="ФСКН"/>
+<domain><![CDATA[jahforum.org]]></domain>
+<ip>172.67.189.49</ip>
+<ip>104.21.9.86</ip>
+<ipv6>2606:4700:3034:0000:0000:0000:ac43:bd31</ipv6>
+<ipv6>2606:4700:3031:0000:0000:0000:6815:0956</ipv6>
+</content>
+<content id="266305" includeTime="2016-02-08T20:36:53" entryType="1" blockType="ip" hash="DCE2C8B7D2F5440CD6A7B7039F5BB580">
+<decision date="2016-02-04" number="2-6-27/ 2016-02-03-20-АИ" org="ФНС"/>
+<ip>136.243.253.129</ip>
+</content>
+<content id="266306" includeTime="2016-02-08T20:36:53" entryType="1" blockType="ip" hash="2D1AC83A9B1C4628C1EE41DA389B2537">
+<decision date="2016-02-04" number="2-6-27/ 2016-02-03-20-АИ" org="ФНС"/>
+<ip>148.251.140.112</ip>
+<ip>148.251.140.113</ip>
+<ip>148.251.140.114</ip>
+<ip>148.251.140.123</ip>
+</content>
+<content id="280860" includeTime="2016-03-28T19:26:03" entryType="1" hash="D003A6132D0FB2A4D611D5251B17B019">
+<decision date="2016-03-23" number="2-6-27/2016-03-01-65-АИ" org="ФНС"/>
+<url><![CDATA[http://формула55.рф]]></url>
+<domain><![CDATA[формула55.рф]]></domain>
+<ip>37.98.153.165</ip>
+</content>
+<content id="299888" includeTime="2016-05-23T19:52:57" entryType="1" hash="56F70EB3269329C37E8CBD2411D9DFF9">
+<decision date="2016-05-18" number="2-6-27/ 2016-05-05-75-АИ" org="ФНС"/>
+<url><![CDATA[https://1иксбет.рф/]]></url>
+<domain><![CDATA[1иксбет.рф]]></domain>
+<ip>190.105.194.58</ip>
+<ip>190.121.210.133</ip>
+</content>
+<content id="4126267" includeTime="2022-03-06T21:24:16" urgencyType="1" entryType="3" blockType="ip" hash="77012AC57C9D64E94918D615323F45F7">
+<decision date="2022-02-24" number="27-31-2020/Ид2145-22" org="Генпрокуратура"/>
+<ipSubnet>185.104.45.0/24</ipSubnet>
+</content>
+<content id="530007" includeTime="2017-04-28T18:54:54" entryType="4" blockType="ip" hash="E5C1DE286914FCCA7D1FC8424D0ABD98">
+<decision date="2017-04-28" number="9-Restricting" org="Роскомнадзор"/>
+<ipSubnet>68.171.224.0/19</ipSubnet>
+</content>
+</reg:register>

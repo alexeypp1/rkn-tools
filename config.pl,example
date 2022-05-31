@@ -1,0 +1,17 @@
+
+use utf8;
+use strict;
+use warnings;
+
+%db_conf = (
+	db_host	=>	"ip или имя хоста mysql",
+	db_login	=>	'логин',
+	db_password	=>	'пароль',
+	db_name	=>	"rkn_tools"
+);
+
+%files_conf = (
+	rkn_dump_file	=>	"dump.xml.example",
+	log_file	=>	'log.txt'
+);
+
